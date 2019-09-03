@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *, *:before:, *:after {
   box-sizing: border-box;
 }
@@ -66,4 +67,9 @@ h1 {
     width: 23%;
     margin-bottom: 1%
   }
+=======
+body {
+  background-color: #dadada;
+  font-size: 10px;
+>>>>>>> d5ae916f8f5ec7f3d161eb0e6f5d1c72c77762a1
 }
